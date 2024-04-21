@@ -9,7 +9,7 @@ In this project, I've built a ReactJS webpage by applying the concepts learned t
 - Start up the app using `npm start`
 </details>
 
-### Completion Instructions
+### Code Information
 
 <details>
 <summary>Components</summary>
